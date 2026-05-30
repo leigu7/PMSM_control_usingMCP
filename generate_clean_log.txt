@@ -1,4 +1,0 @@
-Error using generate_surface_mounted_pmsm_foc_model_clean (line 117)
-Invalid Simulink object name: 'PMSM_Dynamics/2'.
-[Warning: Unable to close the model 'surface_mounted_pmsm_foc' because it has been changed. To save changes, use
-close_system('surface_mounted_pmsm_foc',1). To discard changes, use close_system('surface_mounted_pmsm_foc',0).] 
